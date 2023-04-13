@@ -12,13 +12,7 @@
 - [chatgpt001.vercel.app](https://chatgpt001.vercel.app)
 - [mytimeboxing.vercel.app](https://mytimeboxing.vercel.app)
 - [estarlincito.github.io/highlights](https://estarlincito.github.io/highlights)
-- <a
-    href='https://estarlincito.github.io/task'
-    target='_blank'
-    alt='task web site'
-  >
-    estarlincito.github.io/task
-  </a>
+- [estarlincito.github.io/task](https://estarlincito.github.io/task)
 
 ### Social Media
 
