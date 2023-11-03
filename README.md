@@ -24,6 +24,3 @@
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/estarlincito#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/estarlincito#gh-dark-mode-only)
-
-
-https://share.icloud.com/photos/01fFUwELlOHK1lKG-4pig7dEg
