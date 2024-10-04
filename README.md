@@ -1,18 +1,21 @@
-# Hi 👋 My name is Estarlincito!
+# Hi 👋 My name is Estarlin R!
 
 - 💼 I’m looking to collaborate on Nextjs projects
 - 💬 Ask me about Nextjs, React...
-- 📫 How to reach me: contacto@estarlincito.com
+- 📫 How to reach me: contact@estarlincito.com
 
-<!-- ![Estarlincito's Top Langs](https) -->
+<!-- ![Estarlin R's Top Langs](https) -->
 
 ### Personal Projects
 
 - [estarlincito.com](https://estarlincito.com)
-- [chatgpt001.vercel.app](https://chatgpt001.vercel.app)
+- [quotes001.vercel.app](https://quotes001.vercel.app)
+- [bash001.vercel.app](https://bash001.vercel.app)
 - [mytimeboxing.vercel.app](https://mytimeboxing.vercel.app)
-- [estarlincito.github.io/highlights](https://estarlincito.github.io/highlights)
 - [estarlincito.github.io/task](https://estarlincito.github.io/task)
+- [estarlincito.github.io/git-github](https://estarlincito.github.io/git-github)
+- [estarlincito.github.io/highlights](https://estarlincito.github.io/highlights)
+- [estarlincito.github.io/conversor-ap](https://estarlincito.github.io/conversor-app)
 
 ### Social Media
 
