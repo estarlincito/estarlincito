@@ -9,13 +9,8 @@
 ### Personal Projects
 
 - [estarlincito.com](https://estarlincito.com)
-- [quotes001.vercel.app](https://quotes001.vercel.app)
-- [bash001.vercel.app](https://bash001.vercel.app)
-- [mytimeboxing.vercel.app](https://mytimeboxing.vercel.app)
-- [estarlincito.github.io/task](https://estarlincito.github.io/task)
-- [estarlincito.github.io/git-github](https://estarlincito.github.io/git-github)
-- [estarlincito.github.io/highlights](https://estarlincito.github.io/highlights)
-- [estarlincito.github.io/conversor-app](https://estarlincito.github.io/conversor-app)
+- [estarlincito.com/quote](https://estarlincito.com/quote)
+- [estarlincito.com/gptbot](https://estarlincito.com/gptbot)
 
 ### Social Media
 
