@@ -9,8 +9,10 @@
 ### Personal Projects
 
 - [estarlincito.com](https://estarlincito.com)
-- [estarlincito.com/quote](https://estarlincito.com/quote)
+- [estarlincito.com/blog](https://estarlincito.com/blog)
 - [estarlincito.com/gptbot](https://estarlincito.com/gptbot)
+- [estarlincito.com/quote](https://estarlincito.com/quote)
+
 
 ### Social Media
 
