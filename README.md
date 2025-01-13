@@ -19,8 +19,8 @@
 [![website](./img/globe-light.svg)](https://estarlincito.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://estarlincito.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![X](./img/twitter-light.svg)](https://x.com/est4rlin_#gh-light-mode-only)
-[![X](./img/twitter-dark.svg)](https://x.com/est4rlin_#gh-dark-mode-only)
+[![X](./img/twitter-light.svg)](https://x.com/estarlincito#gh-light-mode-only)
+[![X](./img/twitter-dark.svg)](https://x.com/estarlincito#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/estarlincito#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/estarlincito#gh-dark-mode-only)
