@@ -1,8 +1,10 @@
-# Hi 👋 My name is Estarlin R!
+# 👋 Hey, I’m Estarlin R!
 
-- 💼 I’m looking to collaborate on Nextjs projects
-- 💬 Ask me about Nextjs, React...
-- 📫 How to reach me: contact@estarlincito.com
+🚀 Next.js Enthusiast | React Developer
+	•	💡 Open to collaborating on Next.js projects
+	•	🔥 Passionate about building fast, modern, and scalable web apps
+	•	💬 Ask me anything about Next.js, React, TypeScript, and UI/UX
+	•	📩 Let’s connect: contact@estarlincito.com
 
 <!-- ![Estarlin R's Top Langs](https) -->
 
