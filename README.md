@@ -1,10 +1,10 @@
 # 👋 Hey, I’m Estarlin R!
 
 🚀 Next.js Enthusiast | React Developer
-	•	💡 Open to collaborating on Next.js projects
-	•	🔥 Passionate about building fast, modern, and scalable web apps
-	•	💬 Ask me anything about Next.js, React, TypeScript, and UI/UX
-	•	📩 Let’s connect: contact@estarlincito.com
+- 💡 Open to collaborating on Next.js projects
+- 🔥 Passionate about building fast, modern, and scalable web apps
+- 💬 Ask me anything about Next.js, React, TypeScript, and UI/UX
+- 📩 Let’s connect: contact@estarlincito.com
 
 <!-- ![Estarlin R's Top Langs](https) -->
 
